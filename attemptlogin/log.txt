@@ -6,3 +6,6 @@
  create mode 100644 attemptlogin/large_fileparse-with.py
  create mode 100644 attemptlogin/large_fileparse.py
  create mode 100644 attemptlogin/largefile-S01.py
+[main b3f74e8] Learning to parse log files
+ 1 file changed, 8 insertions(+)
+ create mode 100644 attemptlogin/log.txt
